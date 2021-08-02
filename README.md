@@ -1,1 +1,1 @@
-# 404.github.io
+# banned.github.io
