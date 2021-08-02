@@ -1,1 +1,1 @@
-# banned.github.io
+# error.almaftuchin.com
