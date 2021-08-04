@@ -1,1 +1,1 @@
-# error.almaftuchin.com
+# https://error.almaftuchin.com
