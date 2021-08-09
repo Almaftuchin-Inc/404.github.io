@@ -30,11 +30,11 @@
 </div>
 <h1 class="errorcode">ERROR</h1>
 <div class="errortext">You has been banned from our website!</div>
-<div class="reffip">
+<div class="reff">Reff: <span id="reffip">Waiting..</span></div>
 <script type="application/javascript">
   function getIP(json) {
-    document.write("Ref: ", json.ip);
+const element = document.getElementById("reffip");
+element.innerHTML = json.ip;
   }
 </script>
 <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
-</div>
