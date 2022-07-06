@@ -1,1 +1,1 @@
-# https://error.almaftuchin.com
+Error Page Design
